@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/javascript/calendar.js=MS949
+encoding//src/main/java/com/model2/mvc/common/Page.java=ms949
+encoding//src/main/java/com/model2/mvc/common/aspect/LogAspectJ.java=ms949
+encoding//src/main/java/com/model2/mvc/web/product/ProductRestController.java=ms949
+encoding//src/main/java/com/model2/mvc/web/user/UserRestController.java=ms949
+encoding//src/test/java/com/model2/mvc/service/user/test/UserServiceTest.java=ms949
